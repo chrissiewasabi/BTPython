@@ -1,3 +1,5 @@
+# checks if input is a valid kenyan plate using the format  LLL NNNL
+# where L denotes a letter and N denotes a number
 import re
 
 class NumberPlateMatcher:
